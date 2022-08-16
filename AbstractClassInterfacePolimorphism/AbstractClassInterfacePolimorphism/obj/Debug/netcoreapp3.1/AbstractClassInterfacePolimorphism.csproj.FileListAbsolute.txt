@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\Code Academy\16.08.2022\AbstractClassInterfacePolimorphism\AbstractClassInterfacePolimorphism\bin\Debug\netcoreapp3.1\AbstractClassInterfacePolimorphism.exe
+C:\Users\asus\OneDrive\Desktop\Code Academy\16.08.2022\AbstractClassInterfacePolimorphism\AbstractClassInterfacePolimorphism\bin\Debug\netcoreapp3.1\AbstractClassInterfacePolimorphism.deps.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\16.08.2022\AbstractClassInterfacePolimorphism\AbstractClassInterfacePolimorphism\bin\Debug\netcoreapp3.1\AbstractClassInterfacePolimorphism.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\16.08.2022\AbstractClassInterfacePolimorphism\AbstractClassInterfacePolimorphism\bin\Debug\netcoreapp3.1\AbstractClassInterfacePolimorphism.runtimeconfig.dev.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\16.08.2022\AbstractClassInterfacePolimorphism\AbstractClassInterfacePolimorphism\bin\Debug\netcoreapp3.1\AbstractClassInterfacePolimorphism.dll
+C:\Users\asus\OneDrive\Desktop\Code Academy\16.08.2022\AbstractClassInterfacePolimorphism\AbstractClassInterfacePolimorphism\bin\Debug\netcoreapp3.1\AbstractClassInterfacePolimorphism.pdb
+C:\Users\asus\OneDrive\Desktop\Code Academy\16.08.2022\AbstractClassInterfacePolimorphism\AbstractClassInterfacePolimorphism\obj\Debug\netcoreapp3.1\AbstractClassInterfacePolimorphism.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\16.08.2022\AbstractClassInterfacePolimorphism\AbstractClassInterfacePolimorphism\obj\Debug\netcoreapp3.1\AbstractClassInterfacePolimorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\Code Academy\16.08.2022\AbstractClassInterfacePolimorphism\AbstractClassInterfacePolimorphism\obj\Debug\netcoreapp3.1\AbstractClassInterfacePolimorphism.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\16.08.2022\AbstractClassInterfacePolimorphism\AbstractClassInterfacePolimorphism\obj\Debug\netcoreapp3.1\AbstractClassInterfacePolimorphism.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\Code Academy\16.08.2022\AbstractClassInterfacePolimorphism\AbstractClassInterfacePolimorphism\obj\Debug\netcoreapp3.1\AbstractClassInterfacePolimorphism.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\16.08.2022\AbstractClassInterfacePolimorphism\AbstractClassInterfacePolimorphism\obj\Debug\netcoreapp3.1\AbstractClassInterfacePolimorphism.dll
+C:\Users\asus\OneDrive\Desktop\Code Academy\16.08.2022\AbstractClassInterfacePolimorphism\AbstractClassInterfacePolimorphism\obj\Debug\netcoreapp3.1\AbstractClassInterfacePolimorphism.pdb
+C:\Users\asus\OneDrive\Desktop\Code Academy\16.08.2022\AbstractClassInterfacePolimorphism\AbstractClassInterfacePolimorphism\obj\Debug\netcoreapp3.1\AbstractClassInterfacePolimorphism.genruntimeconfig.cache
