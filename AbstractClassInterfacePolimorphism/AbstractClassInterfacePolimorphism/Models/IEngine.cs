@@ -14,7 +14,7 @@ namespace AbstractClassInterfacePolimorphism.Models
         { get; set; }
         public string FuelType
         { get; set; }
-        public float RemainOilAmount
-        { get; set; }
+        public float RemainOilAmount();
+        
     }
 }

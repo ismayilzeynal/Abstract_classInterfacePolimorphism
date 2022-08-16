@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AbstractClassInterfacePolimorphism.Models
 {
-    class Plane
+    class Plane : Vehicle
     {
         private float _wingLength;
 
@@ -18,5 +18,9 @@ namespace AbstractClassInterfacePolimorphism.Models
             }
         }
 
+        public override float AverageSpeed()
+        {
+            return DrivePath / DriveTime;
+        }
     }
 }

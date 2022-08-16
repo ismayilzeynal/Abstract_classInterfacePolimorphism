@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AbstractClassInterfacePolimorphism.Models
 {
-    class Bicycle
+    class Bicycle : Vehicle
     {
         private string _pedalKind;
 
@@ -14,5 +14,9 @@ namespace AbstractClassInterfacePolimorphism.Models
             set { _pedalKind = value; }
         }
 
+        public override float AverageSpeed()
+        {
+            return DrivePath / DriveTime;
+        }
     }
 }

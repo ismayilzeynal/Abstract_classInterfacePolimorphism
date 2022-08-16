@@ -6,9 +6,24 @@ namespace AbstractClassInterfacePolimorphism.Models
 {
     abstract class Vehicle
     {
-        public abstract float DriveTime();          // hour
-        public abstract float DrivePath();          // km
-        public abstract float AverageSpeed();       // km/h
+        private float _drivePath;                   // km
+        private float _driveTime;                   // hour
+
+
+        public float DriveTime
+        {
+            get { return _driveTime; }
+            set { if(value>=0) _driveTime = value; }
+        }
+
+        public float DrivePath
+        {
+            get { return _drivePath; }
+            set { if(value>=0) _drivePath = value; }
+        }
+
+        public abstract float AverageSpeed();
+        
 
     }
 }

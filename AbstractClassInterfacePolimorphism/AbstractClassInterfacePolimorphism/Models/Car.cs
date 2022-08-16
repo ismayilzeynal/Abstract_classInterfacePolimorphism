@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AbstractClassInterfacePolimorphism.Models
 {
-    class Car
+    class Car : Vehicle
     {
         private int _doorCount;
 
@@ -24,6 +24,11 @@ namespace AbstractClassInterfacePolimorphism.Models
         {
             get { return _winCode; }
             set { _winCode = value; }
+        }
+
+        public override float AverageSpeed()
+        {
+            return DrivePath / DriveTime;
         }
     }
 }
